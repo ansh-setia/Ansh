@@ -14,7 +14,7 @@ const brandingLocations = [
   },
   {
     title: 'Around the round about Gate 1',
-    image: '/src/pages/images/3.jpg',
+    image: 'src/pages/images/3.jpg',
     description: 'Interactive installations and photo opportunities',
   },
   {
