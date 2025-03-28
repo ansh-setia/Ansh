@@ -4,12 +4,12 @@ import { motion, useInView } from 'framer-motion';
 const brandingLocations = [
   {
     title: 'Holding outside B3 and DSW',
-    image: '/src/pages/images/1.jpg',
+    image: '/../src/pages/images/1.jpg',
     description: 'Grand welcome arch with event branding',
   },
   {
     title: 'A2',
-    image: '/src/pages/images/2.jpg',
+    image: 'src/pages/images/2.jpg',
     description: 'Vertical banners and digital displays',
   },
   {
