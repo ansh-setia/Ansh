@@ -43,7 +43,7 @@ const Venue = () => {
           </h2>
           <div className="bg-gradient-to-br from-gray-900 to-black rounded-xl p-8">
             <img
-              src="/src/pages/images/17.jpg"
+              src="/17.jpg"
               alt="Stall Layout"
               className="w-full rounded-lg shadow-2xl mb-8 hover:opacity-90 transition-opacity duration-300"
             />
