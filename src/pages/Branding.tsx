@@ -3,82 +3,82 @@ import { motion, useInView } from 'framer-motion';
 
 const brandingLocations = [
   {
-    title: 'Main Entrance',
+    title: 'Holding outside B3 and DSW',
     image: '/src/pages/images/1.jpg',
     description: 'Grand welcome arch with event branding',
   },
   {
-    title: 'Academic Block',
+    title: 'A2',
     image: '/src/pages/images/2.jpg',
     description: 'Vertical banners and digital displays',
   },
   {
-    title: 'Student Center',
+    title: 'Around the round about Gate 1',
     image: '/src/pages/images/3.jpg',
     description: 'Interactive installations and photo opportunities',
   },
   {
-    title: 'Event Arena',
+    title: 'Main view pount from highway A2',
     image: '/src/pages/images/4.jpg',
     description: 'Complete venue transformation with immersive branding',
   },
   {
-    title: 'Library Complex',
+    title: 'In front of A3',
     image: '/src/pages/images/5.jpg',
     description: 'Digital displays and information kiosks',
   },
   {
-    title: 'Sports Complex',
+    title: 'Fountain',
     image: '/src/pages/images/6.jpg',
     description: 'Outdoor banners and directional signage',
   },
   {
-    title: 'Food Court',
+    title: 'APJ Abdul Kamal',
     image: '/src/pages/images/7.jpg',
     description: 'Branded seating areas and menu displays',
   },
   {
-    title: 'Innovation Hub',
+    title: 'A3 Flex',
     image: '/src/pages/images/8.jpg',
     description: 'Tech-integrated branding displays',
   },
   {
-    title: 'Amphitheatre',
+    title: 'C3',
     image: '/src/pages/images/9.jpg',
     description: 'Stage backdrop and surrounding banners',
   },
   {
-    title: 'Research Center',
+    title: 'NC Gate Boys Hostel',
     image: '/src/pages/images/10.jpg',
     description: 'Digital screens with event information',
   },
   {
-    title: 'Central Plaza',
+    title: 'Underpass',
     image: '/src/pages/images/11.jpg',
     description: 'Central information hub and meeting point',
   },
   {
-    title: 'Parking Area',
+    title: 'C1',
     image: '/src/pages/images/12.jpg',
     description: 'Directional signage and welcome banners',
   },
   {
-    title: 'Hostel Complex',
+    title: 'D1 Stairs',
     image: '/src/pages/images/13.jpg',
     description: 'Information boards and promotional displays',
   },
   {
-    title: 'Administrative Block',
+    title: 'Gate 1',
     image: '/src/pages/images/14.jpg',
     description: 'Corporate branding and VIP area signage',
   },
   {
-    title: 'Workshop Area',
+    title: 'Creative',
     image: '/src/pages/images/15.jpg',
     description: 'Technical area branding and safety information',
   },
   {
-    title: 'Garden Area',
+    title: 'Gate 2',
     image: '/src/pages/images/16.jpg',
     description: 'Outdoor promotional displays and rest areas',
   },
